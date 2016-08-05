@@ -1,0 +1,27 @@
+_repo: A-Knight-of-the-Nineteenth-Century_6311
+_version: 0.0.1
+alternative_title: A Knight of the 19th Century
+creator:
+  author:
+    agent_name: Roe, Edward Payson
+    alias: Roe, E. P. (Edward Payson)
+    birthdate: 1838
+    deathdate: 1888
+    gutenberg_agent_id: '858'
+    url: http://www.gutenberg.org/2009/agents/858
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Payson_Roe
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Knight of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/6311
